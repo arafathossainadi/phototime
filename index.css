@@ -1,0 +1,408 @@
+@font-face
+{
+    font-family: grb;
+    src:url(fonts/grb.otf);
+}
+
+@font-face
+{
+    font-family: grm;
+    src:url(fonts/grm.otf);
+}
+
+@font-face
+{
+    font-family: grbook;
+    src:url(fonts/grbook.otf);
+}
+
+body
+{
+    background:grey;
+    width: 1200px;
+    height: 3700px;
+    margin: 0 auto;
+    font-family: grb;
+}
+
+header
+{
+    background: url(images/back.jpg);
+    width: 1200px;
+    height: 698px;
+    margin-top: 50px;
+    float:left;
+}
+
+.head-area
+{
+    border: 1px solid transparent;
+    width: 700px;
+    height: 650px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.nav
+{
+    color: white;
+    font-size: 15px;
+    float: left;
+    margin-top: 30px;
+}
+
+.nav-photoapp
+{
+    margin-left: 60px;
+}
+
+.nav-cam
+{
+    float: left;
+    margin-left: 110px;
+}
+
+.nav-design
+{
+    margin-left: 110px;
+}
+
+.nav-down
+{
+    margin-left: 70px;
+}
+
+.your-life
+{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top:270px;
+    letter-spacing: 8px;
+}
+
+.print-your-life
+{
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    font-family: grm;
+}
+
+.get-started
+{
+    background: #16a085;
+    width: 150px;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 3px;
+    color: white;
+    margin-top: 20px;
+    font-size: 13px;
+    font-family: grm;
+    letter-spacing: 2px;
+}
+
+.social-icons
+{
+    margin-top: 180px;
+    margin-left: 275px;
+}
+
+.second
+{
+    border:1px solid white;
+    background: white;
+    width: 1198px;
+    height: 465px;
+    float: left;
+}
+
+.rylwsp
+{
+    color:#16a085;
+    font-size:15px;
+    margin-left: 120px;
+    margin-top:80px;
+    letter-spacing: 4px;
+}
+
+.rylwsp-desc
+{
+    color:#505051;
+    margin-left: 120px;
+    font-family: grbook;
+    font-size:13px;
+    margin-top:30px;
+    line-height: 30px;
+}
+
+.second-get-started
+{
+    margin-left: 120px;
+    margin-top: 50px;
+    width: 180px;
+    height: 30px;
+    padding-top: 20px;
+}
+
+.iphone
+{
+    float: right;
+    margin-top: -360px;
+    margin-right: 80px;
+}
+
+.third
+{
+    float:left;
+    background:white;
+    width: 1198px;
+    height: 561px;
+    border: 1px solid white;
+}
+
+.mobile
+{
+    margin-left: 120px;
+    margin-top: 150px;
+    float: left;
+}
+
+.design
+{
+    color:#16a085;
+    margin-top: 150px;
+    margin-left: 300px;
+    float: left;
+}
+
+.design-desc
+{
+    color:#505051;
+    margin-left: 300px;
+    font-family: grbook;
+    font-size:13px;
+    margin-top:10px;
+    line-height: 30px;
+    float: left;
+    letter-spacing: 1px;
+}
+
+.learn-more
+{
+    background: #16a085;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-top: 40px;
+    margin-left: 300px;
+    font-size: 13px;
+    font-family: grm;
+    letter-spacing: 2px;
+    float: left;
+}
+
+.zero
+{
+    float: left;
+    margin-top:120px;
+    margin-left:-200px;
+    color: #373737;
+}
+
+.arrows
+{
+    float: left;
+    margin-top:140px;
+    margin-left:-200px;
+}
+
+.fourth
+{
+    width: 1198px;
+    height: 500px;
+    background: white;
+    border: 1px solid white;
+    float:left;
+}
+
+.camera-area
+{
+    border: 0.5px solid white;
+    width: 240px;
+    height: 240px;
+    margin-top: 150px;
+    margin-left: 120px;
+    float: left;
+}
+
+.camera
+{
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.camera-title
+{
+    text-align: center;
+    color: #373737;
+    letter-spacing: 1px;
+}
+
+.camera-desc
+{
+    text-align: center;
+    color:#444444;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+
+.bus
+{
+    margin-left: 20px;
+    margin-top:150px;
+    float: left;
+}
+
+.bus-arrow
+{
+    float: left;
+    margin-top: 120px;
+    margin-left: -50px; 
+}
+
+.footer-top
+{
+    background: url(images/foo.png);
+    float: left;
+    width: 1200px;
+    height: 741px;
+}
+
+.sub
+{
+    text-align: center;
+    color: white;
+    margin-top: 330px;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.your-email
+{
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-style: none;
+    width: 250px;
+    height: 60px;
+    margin-left: 430px;
+    padding-left:  20px;
+    padding-top: 0px;
+    font-family: grm;
+    font-size: 20px;
+    float: left;
+    
+}
+
+::-webkit-input-placeholder{
+  color: gray;
+  letter-spacing: 1px;
+}
+:-ms-input-placeholder {
+  color: gray;
+}
+::-moz-placeholder {
+  color: gray;
+}
+:-moz-placeholder {
+  color: gray;
+}
+
+.check-box
+{
+    width: 60px;
+    height: 61px;
+    border-style: none;
+    background-color: #16a085;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.down-it-area
+{
+    float: left;
+    background: white;
+    width: 1198px;
+    height: 630px;
+    border: 1px solid transparent;
+}
+
+.down-it-title
+{
+    margin-top:100px;
+}
+
+.down-it-desc
+{
+    color:#6a6a6a;
+    text-align: center;
+    padding: 0 185px;
+    font-size: 14px;
+    line-height:25px;
+    margin-top: -10px;
+}
+
+.apple-store
+{
+    margin-left: 280px;
+    margin-top:50px;
+    float: left;
+}
+
+.play
+{
+    margin-left: 25px;
+    margin-top:50px;
+}
+
+
+.cr
+{
+    margin-top: 200px;
+    margin-left: 120px;
+}
+
+.cr-pv-ot
+{
+    font-family: grb;
+    float: left;
+}
+
+.bar
+{
+    width:2px;
+    height: 15px;
+    background: #1abc9c;
+    float: left;
+    margin-top: 18px;
+}
+
+.copyright
+{
+    color:#444444;
+    float: left;
+    margin-top: 50px;
+    margin-left: -287px;
+}
+
+.cam
+{
+    float: right;
+    margin-right: 130px;
+    margin-top: 15px;
+}
